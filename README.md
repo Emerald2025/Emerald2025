@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Live Streaming and Kubernetes  
   
 
-- ❓ Feel free to ask me about anything related to MEAN & MERN stack and Blockchain related technologies  
+- ❓ Feel free to ask me about anything related to MEAN & MERN stack and Blockchain  
   
 
 <br/>  
